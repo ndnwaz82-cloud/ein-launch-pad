@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie": "^1.0.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "stripe": "^17.5.0"
+  },
+  "description": "EIN Launch Pad — guided IRS EIN (Form SS-4) preparation, sold as a $13.99 one-time purchase",
+  "engines": {
+    "node": ">=22"
+  },
+  "name": "ein-launch-pad",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0"
+}
